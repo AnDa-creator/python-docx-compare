@@ -1,0 +1,7 @@
+THIS repo just a small example to compare two docx files under some headings.
+Used **Python-docx**
+- It can be genralized for whole docs.
+- Formatting is maintained for text and table 
+- tables are recursively added at the end of heading (Limitation)
+
+Inspired from StackExchange and git issues. Feels free to use if necessary. 
